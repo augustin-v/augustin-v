@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac.svg)](https://wakatime.com/@66b6796d-eb84-4bb9-b9d2-8dc882f4c6ac)
+[![wakatime](https://wakatime.com/badge/user/e608e6b8-27df-416c-95f9-6776f4cfa6d6.svg)](https://wakatime.com/@e608e6b8-27df-416c-95f9-6776f4cfa6d6)
