@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there ![Waving](https://media.giphy.com/media/xUPGcl3ylgdMvfycso/giphy.gif)
 
 Welcome to my GitHub profile! I'm thrilled to have you here.
 
@@ -16,15 +16,9 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 - 💼 [Website](https://augustin-v.vercel.app/)
 - 📧 [Email](mailto:avilletardpiano@gmail.com)
 
-## My Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=augustin-v&show_icons=true&theme=radical)
-
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=augustin-v&layout=compact&theme=radical)
 
-## Recent Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=augustin-v&theme=radical)
 
----
 
 Thank you for stopping by! Let's build something amazing together. 🚀
