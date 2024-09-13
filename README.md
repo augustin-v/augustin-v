@@ -1,4 +1,4 @@
-# Hi there ![Waving](https://media.giphy.com/media/xUPGcl3ylgdMvfycso/giphy.gif)
+# Hi there
 
 Welcome to my GitHub profile! I'm thrilled to have you here.
 
