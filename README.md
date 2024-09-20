@@ -18,7 +18,3 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 ## Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=augustin-v&layout=compact&theme=radical)
-
-
-
-Thank you for stopping by! Let's build something amazing together. 🚀
